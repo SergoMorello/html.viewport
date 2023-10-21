@@ -1,6 +1,6 @@
 {
   "name": "html-viewport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dynamically creating or changing the content DOM viewport",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SergoMorello/react.hoc.modal.git"
+    "url": "git+https://github.com/SergoMorello/html.viewport.git"
   },
   "keywords": [
     "viewport",
@@ -26,9 +26,9 @@
   "author": "Sergey Serov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SergoMorello/react.hoc.modal/issues"
+    "url": "https://github.com/SergoMorello/html.viewport/issues"
   },
-  "homepage": "https://github.com/SergoMorello/react.hoc.modal#readme",
+  "homepage": "https://github.com/SergoMorello/html.viewport#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.22.20",
     "@types/jest": "^29.5.0",
